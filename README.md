@@ -1,6 +1,6 @@
 # i
 
-**i** is a program to instantly pull your **public** IP address circumventing the hassle to google such for when it is needed.
+**i** is a program to instantly pull your **public** IP address circumventing the hassle to google such or run bloated like programs for when it is needed.
 
 Author: [KV5d](https://github.com/KV5d)
 
