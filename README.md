@@ -2,7 +2,7 @@
 
 **i** is a program to instantly pull your **public** IP address circumventing the hassle to google such for when it is needed.
 
-# Author: KV5d - [link](https://github.com/KV5d)
+# Author: [KV5d](https://github.com/KV5d)
 
 # Use Cases:
     * To see if your VPN truly is working
