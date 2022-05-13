@@ -2,6 +2,11 @@
 name = "i"
 version = "0.1.0"
 edition = "2021"
+authors = ["KV5d"]
+description = "i is a program to instantly pull your public IP address circumventing the hassle to google such or run bloated like programs for when it is needed."
+homepage = "https://github.com/KV5d/i"
+repository = "https://github.com/KV5d/i"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

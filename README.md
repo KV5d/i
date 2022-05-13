@@ -8,4 +8,3 @@ Author: [KV5d](https://github.com/KV5d)
     * To see if your VPN truly is working.
     * To quickly view while developing software that may need an IP address for testing.
     * Not quite a use case but instead of searching through ifconfig output and such it is just nice to plainly have it accessible right through the terminal.
-
